@@ -13,7 +13,7 @@ I'm a senior backend developer and AWS enthousiast. I'm working as a Backend Eng
 Hobbies : 
 - I'm riding MTB 2 or 3 times a week :mountain_biking_man:, I like to be in the forest and push my limits physically and technically
 - I'm also playing electric guitar :guitar: (:metal:)
-- I'm like skiing :ski:
+- I like skiing :ski:
 
 <!--
 **NicolasMugnier/NicolasMugnier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
