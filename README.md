@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Nicolas !
 
-I'm a senior backend developer and AWS enthousiast. I'm working as a Backend Engineer at OpenClassrooms.
+I'm currently working as a Senior Backend Engineer at OpenClassrooms.
 
-:spiral_calendar: Since 14 years I've worked on differents kinds of projects and used many frameworks / tools / languages depending on the context :coffee: :
+:spiral_calendar: I've worked on differents kinds of projects and I've got the opportunity to use differents frameworks / tools / languages depending on the context :coffee: :
 - e-commerce extensions (Prestashop, Magento, Magento2)
 - e-commerce plateform (Magento / Magento2)
 - Containerize application (Akeneo) and deploy it on OpenShift
