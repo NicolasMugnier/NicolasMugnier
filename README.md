@@ -8,7 +8,9 @@ I'm currently working as a Senior Backend Engineer at OpenClassrooms.
 - Containerize application (Akeneo) and deploy it on OpenShift
 - MicroServices / AWS / serverless / TypeScript
 - Laravel on personal projects
-- Symfony / Clean Architecture in my current position
+- Symfony / Domain Driven Design / Clean Architecture in my current position
+
+I'm also exploring __Web3__ components and ecosystem. It's like discovering the web for the first time, so interesting.
 
 Hobbies : 
 - I'm riding MTB 2 or 3 times a week :mountain_biking_man:, I like to be in the forest and push my limits physically and technically
