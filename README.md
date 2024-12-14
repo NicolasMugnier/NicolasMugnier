@@ -1,3 +1,8 @@
+![Backend Engineer](https://github.com/user-attachments/assets/71bf3dd0-6854-427b-b628-574cc0ad6d08)
+
+![Static Badge](https://img.shields.io/badge/php-7A86B8) ![Static Badge](https://img.shields.io/badge/TypeScript-3178c6) ![Static Badge](https://img.shields.io/badge/AWS-141f2e) ![Static Badge](https://img.shields.io/badge/Clean%20Code-f6f8fa)
+
+
 ### Hi there 👋, I'm Nicolas !
 
 I'm currently working as a Senior Backend Engineer at OpenClassrooms.
