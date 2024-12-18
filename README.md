@@ -24,7 +24,7 @@ Hobbies :
 
 In a nutshell :
 
-![usecase-diagram](https://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/NicolasMugnier/NicolasMugnier/main/usecase-diagram.puml)
+![usecase-diagram](https://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/NicolasMugnier/NicolasMugnier/main/usecase-diagram.puml&cache=0)
 
 <!--
 **NicolasMugnier/NicolasMugnier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
