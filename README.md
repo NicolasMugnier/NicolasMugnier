@@ -22,6 +22,10 @@ Hobbies :
 - I'm also playing electric guitar :guitar: (:metal:)
 - I like skiing :ski:
 
+In a nutshell :
+
+![usecase-diagram](https://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/NicolasMugnier/NicolasMugnier/main/usecase-diagram.puml)
+
 <!--
 **NicolasMugnier/NicolasMugnier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
