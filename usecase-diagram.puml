@@ -1,0 +1,36 @@
+@startuml
+skinparam backgroundColor transparent
+actor ME
+usecase MakeEducationAccessible
+usecase ExploreWeb3
+usecase RideMountain
+usecase Symfony
+usecase CleanArchitecture
+usecase PHP
+usecase Python
+usecase DomainDrivenDesign
+usecase Wallet
+usecase IPFS
+usecase ENS
+usecase NFT
+usecase Crypto
+usecase MountainBike
+usecase Ski
+usecase Energy
+ME --> MakeEducationAccessible: Role_Senior_Backend_Engineer
+MakeEducationAccessible <.. Symfony
+MakeEducationAccessible <.. PHP
+MakeEducationAccessible <.. CleanArchitecture
+MakeEducationAccessible <.. DomainDrivenDesign
+MakeEducationAccessible <.. Python
+ME --> ExploreWeb3: Role_Web3_Enthusiast
+ExploreWeb3 <.. Wallet
+ExploreWeb3 <.. IPFS
+ExploreWeb3 <.. NFT
+ExploreWeb3 <.. ENS
+ExploreWeb3 <.. Crypto
+ME --> RideMountain: Role_Rider
+RideMountain <.. MountainBike
+RideMountain <.. Ski
+RideMountain <.. Energy
+@enduml
