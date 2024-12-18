@@ -1,5 +1,4 @@
 @startuml
-skinparam backgroundColor transparent
 actor ME
 usecase MakeEducationAccessible
 usecase ExploreWeb3
