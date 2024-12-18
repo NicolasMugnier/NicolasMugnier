@@ -1,5 +1,5 @@
 @startuml
-skinparam backgroundColor white
+skinparam backgroundColor pink
 actor ME
 usecase MakeEducationAccessible
 usecase ExploreWeb3
