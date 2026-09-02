@@ -13,7 +13,7 @@ I care about domain boundaries, search at scale, catching incidents before the b
 Not looking for a language-shaped box. Happy to talk about Staff Backend roles — remote or Annecy — on a product, a platform, or a monolith that needs straightening out.
 
 - Blog: [blog.anyvoid.dev](https://blog.anyvoid.dev)
-- LinkedIn: [nicolasmugnier](https://www.linkedin.com/in/nicolasmugnier/)
+- LinkedIn: [nicolas-mugnier](https://www.linkedin.com/in/nicolas-mugnier/)
 - X: [@anyvoiddotdev](https://x.com/anyvoiddotdev)
 
 MTB, guitar, skiing — when the pager is quiet.
