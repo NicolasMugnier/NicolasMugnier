@@ -1,42 +1,19 @@
-![Backend Engineer](https://github.com/user-attachments/assets/71bf3dd0-6854-427b-b628-574cc0ad6d08)
+![Backend Engineer](./github-banner-contrib-1280x400.png)
 
-![Static Badge](https://img.shields.io/badge/php-7A86B8) ![Static Badge](https://img.shields.io/badge/TypeScript-3178c6) ![Static Badge](https://img.shields.io/badge/AWS-141f2e)  ![Static Badge](https://img.shields.io/badge/python-ffdf76) ![Static Badge](https://img.shields.io/badge/Clean%20Code-f6f8fa)
+Backend engineer, 16 years. I design and run systems at scale: APIs, search, async workloads, observability.
 
+**Architecture · Product · Scale · Reliability**
 
-### Hi there 👋, I'm Nicolas !
+Currently Senior Backend Engineer at OpenClassrooms — matching and search on a large job board (aggregation, recommendations, auto-apply, org scoring). Before that: serverless AWS (~20 TypeScript/Node services) at Amer Sports, lead PHP / Magento / marketplaces.
 
-I'm currently working as a Senior Backend Engineer at OpenClassrooms.
+I care about domain boundaries, search at scale, catching incidents before the business does, and raising the bar for the team without managing people.
 
-:spiral_calendar: I've worked on differents kinds of projects and I've got the opportunity to use differents frameworks / tools / languages depending on the context :coffee: :
-- e-commerce extensions (Prestashop, Magento, Magento2)
-- e-commerce plateform (Magento / Magento2)
-- Containerize application (Akeneo) and deploy it on OpenShift
-- MicroServices / AWS / serverless / TypeScript
-- Laravel on personal projects
-- Symfony / Domain Driven Design / Clean Architecture in my current position
+**Stack I actually ship with:** PHP/Symfony · Node.js/TypeScript · PostgreSQL · AWS · Docker
 
-I'm also exploring __Web3__ components and ecosystem. It's like discovering the web for the first time, so interesting.
+Not looking for a language-shaped box. Happy to talk about Staff Backend roles — remote or Annecy — on a product, a platform, or a monolith that needs straightening out.
 
-Hobbies : 
-- I'm riding MTB 2 or 3 times a week :mountain_biking_man:, I like to be in the forest and push my limits physically and technically
-- I'm also playing electric guitar :guitar: (:metal:)
-- I like skiing :ski:
+- Blog: [blog.anyvoid.dev](https://blog.anyvoid.dev)
+- LinkedIn: [nicolasmugnier](https://www.linkedin.com/in/nicolasmugnier/)
+- X: [@anyvoiddotdev](https://x.com/anyvoiddotdev)
 
-In a nutshell :
-
-![usecase-diagram](https://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/NicolasMugnier/NicolasMugnier/main/usecase-diagram.puml&cache=0)
-
-<!--
-**NicolasMugnier/NicolasMugnier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MTB, guitar, skiing — when the pager is quiet.
